@@ -1,0 +1,9 @@
+{
+  "name": "e.kofman/factory-method",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Pattern\\": "Pattern"
+    }
+  }
+}
